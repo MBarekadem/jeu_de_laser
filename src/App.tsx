@@ -34,7 +34,7 @@ const targetImages: TargetImage[] = [
     id: "meta",
     name: "Meta",
     icon: () => (
-      <img src="images/meta.png" className="w-8 h-8" />
+      <img src="../images/meta.png" className="w-8 h-8" />
     ),
     color: "blue",
     points: 15
@@ -61,7 +61,7 @@ const targetImages: TargetImage[] = [
     id: "Netflix",
     name: "Netflix",
     icon: () => (
-      <img src="images/netflix.png" className="w-8 h-8" />
+      <img src="../images/netflix.png" className="w-8 h-8" />
     ),
     color: "green",
     points: 18
